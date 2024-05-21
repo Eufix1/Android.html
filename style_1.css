@@ -1,0 +1,37 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: #000000;
+        margin: 0;
+        padding: 20px;
+    }
+    header, footer {
+        background-color: #000000;
+        color: rgba(0,255,0);
+        padding: 10px 0;
+        text-align: center;
+    }
+    main {
+        background-color: #000000;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0,255,0);
+    }
+    h1, h2 {
+        color: white;
+    }
+    p {
+        margin-bottom: 15px;
+    }
+    code {
+        background-color: #000000;
+        padding: 2px 4px;
+        border-radius: 4px;
+    }
+    li{
+        color: white;
+    }
+    p{
+        color: white;
+    }
